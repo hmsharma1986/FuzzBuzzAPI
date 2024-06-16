@@ -1,0 +1,66 @@
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\appsettings.json
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\FizzBuzzApi.exe
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\FizzBuzzApi.deps.json
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\FizzBuzzApi.runtimeconfig.json
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\FizzBuzzApi.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\FizzBuzzApi.pdb
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.csproj.AssemblyReference.cache
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.AssemblyInfoInputs.cache
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.AssemblyInfo.cs
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.csproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\staticwebassets\msbuild.FizzBuzzApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FizzBuzzApi.props
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FizzBuzzApi.props
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FizzBuzzApi.props
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\scopedcss\bundle\FizzBuzzApi.styles.css
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzz.B2B9C938.Up2Date
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\refint\FizzBuzzApi.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.pdb
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.genruntimeconfig.cache
+C:\Program Files\Microsoft Visual Studio\2022\Community\FizzBuzzApi\obj\Debug\net8.0\ref\FizzBuzzApi.dll
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\appsettings.Development.json
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\appsettings.json
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\FizzBuzzApi.exe
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\FizzBuzzApi.deps.json
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\FizzBuzzApi.runtimeconfig.json
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\FizzBuzzApi.dll
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\FizzBuzzApi.pdb
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.csproj.AssemblyReference.cache
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.AssemblyInfoInputs.cache
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.AssemblyInfo.cs
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.csproj.CoreCompileInputs.cache
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.MvcApplicationPartsAssemblyInfo.cs
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\staticwebassets\msbuild.FizzBuzzApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\staticwebassets\msbuild.build.FizzBuzzApi.props
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FizzBuzzApi.props
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FizzBuzzApi.props
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\scopedcss\bundle\FizzBuzzApi.styles.css
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzz.B2B9C938.Up2Date
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.dll
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\refint\FizzBuzzApi.dll
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.pdb
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\FizzBuzzApi.genruntimeconfig.cache
+C:\ProjectWork\FizzBuzzApi\FizzBuzzApi\obj\Debug\net8.0\ref\FizzBuzzApi.dll

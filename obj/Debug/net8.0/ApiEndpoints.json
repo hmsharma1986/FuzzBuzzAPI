@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FizzBuzzApi.Controllers.FizzBuzzController",
+    "Method": "ProcessValues",
+    "RelativePath": "api/FizzBuzz",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "values",
+        "Type": "System.Int32[]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|c:\\projectwork\\fizzbuzzapi\\fizzbuzzapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|c:\\projectwork\\fizzbuzzapi\\fizzbuzzapi\\controllers\\fizzbuzzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|solutionrelative:controllers\\fizzbuzzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|c:\\projectwork\\fizzbuzzapi\\fizzbuzzapi\\services\\ifizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|solutionrelative:services\\ifizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|c:\\projectwork\\fizzbuzzapi\\fizzbuzzapi\\services\\ifizzbuzzservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|solutionrelative:services\\ifizzbuzzservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|c:\\projectwork\\fizzbuzzapi\\fizzbuzzapi\\services\\fizzbuzzservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|solutionrelative:services\\fizzbuzzservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|c:\\projectwork\\fizzbuzzapi\\fizzbuzzapi\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36C4E9B2-CF37-403F-B0DA-1CC8BE2764F7}|FizzBuzzApi.csproj|solutionrelative:services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FizzBuzzController.cs",
+              "DocumentMoniker": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Controllers\\FizzBuzzController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FizzBuzzController.cs",
+              "ToolTip": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Controllers\\FizzBuzzController.cs",
+              "RelativeToolTip": "Controllers\\FizzBuzzController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:14:33.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FizzBuzzServiceFactory.cs",
+              "DocumentMoniker": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Services\\FizzBuzzServiceFactory.cs",
+              "RelativeDocumentMoniker": "Services\\FizzBuzzServiceFactory.cs",
+              "ToolTip": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Services\\FizzBuzzServiceFactory.cs",
+              "RelativeToolTip": "Services\\FizzBuzzServiceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:13:18.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFizzBuzzServiceFactory.cs",
+              "DocumentMoniker": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Services\\IFizzBuzzServiceFactory.cs",
+              "RelativeDocumentMoniker": "Services\\IFizzBuzzServiceFactory.cs",
+              "ToolTip": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Services\\IFizzBuzzServiceFactory.cs",
+              "RelativeToolTip": "Services\\IFizzBuzzServiceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:12:44.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFizzBuzzService.cs",
+              "DocumentMoniker": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Services\\IFizzBuzzService.cs",
+              "RelativeDocumentMoniker": "Services\\IFizzBuzzService.cs",
+              "ToolTip": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Services\\IFizzBuzzService.cs",
+              "RelativeToolTip": "Services\\IFizzBuzzService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:11:29.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:13:36.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FizzBuzzService.cs",
+              "DocumentMoniker": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Services\\FizzBuzzService.cs",
+              "RelativeDocumentMoniker": "Services\\FizzBuzzService.cs",
+              "ToolTip": "C:\\ProjectWork\\FizzBuzzApi\\FizzBuzzApi\\Services\\FizzBuzzService.cs",
+              "RelativeToolTip": "Services\\FizzBuzzService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:12:09.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
