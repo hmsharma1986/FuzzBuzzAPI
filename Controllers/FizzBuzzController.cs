@@ -15,7 +15,7 @@ namespace FizzBuzzApi.Controllers
         }
 
         [HttpPost]
-        public IActionResult ProcessValues([FromBody] int[] values)
+        public IActionResult ProcessValues([FromBody] string[] values)
         {
             var fizzBuzzService = _fizzBuzzServiceFactory.Create();
             var (results, divisions) = fizzBuzzService.ProcessValues(values);

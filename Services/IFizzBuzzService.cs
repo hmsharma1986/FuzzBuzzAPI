@@ -2,6 +2,6 @@
 {
     public interface IFizzBuzzService
     {
-        (List<string> Results, List<string> Divisions) ProcessValues(int[] values);
+        (List<string> Results, List<string> Divisions) ProcessValues(string[] values);
     }
 }
